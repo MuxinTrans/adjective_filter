@@ -1,0 +1,177 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "GPIO_PB[4]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PB[5]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PB[6]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PB[7]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PB[8]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PB[9]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PB[10]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PB[11]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PB[12]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PB[13]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PB[14]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PB[15]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PD[2]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PD[3]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PD[4]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PD[5]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PD[6]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PD[7]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PD[8]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PD[9]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PD[10]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PD[11]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PD[12]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PD[13]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PF[1]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PF[2]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PF[3]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PF[4]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PF[5]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PF[6]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PF[7]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PF[8]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PF[9]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PF[10]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PF[11]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PF[12]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PF[13]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_PF[14]",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tms",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tck",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdi",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdo",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

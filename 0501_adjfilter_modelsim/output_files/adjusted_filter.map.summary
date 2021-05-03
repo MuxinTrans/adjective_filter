@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon May 03 14:44:24 2021
+Quartus Prime Version : 17.0.0 Build 595 04/25/2017 SJ Standard Edition
+Revision Name : adjusted_filter
+Top-level Entity Name : adjusted_filter
+Family : Cyclone IV E
+Total logic elements : 17,986
+    Total combinational functions : 16,133
+    Dedicated logic registers : 5,365
+Total registers : 5365
+Total pins : 104
+Total virtual pins : 0
+Total memory bits : 311,368
+Embedded Multiplier 9-bit elements : 232
+Total PLLs : 1
